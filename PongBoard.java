@@ -1,5 +1,5 @@
-//Hi this is a comment
-
+//Test Comment
+//New Comment
 public class PongBoard {
     private GameUnit myBall;
     private GameUnit myLPaddle;
